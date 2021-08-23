@@ -23,7 +23,7 @@ These are some of the main technologies I use and a'm learning:
  <div>
   <a href="https://github.com/89fernando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=89fernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89fernando&layout=compact&langs_count=7&theme=dark"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89fernando&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
   ##
