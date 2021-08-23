@@ -4,7 +4,7 @@ I'm a **Frontend Developer Jr** working at [Vnda](https://www.vnda.com.br/).
 
 ## Skill Set :muscle:
 
-These are some of the main technologies I'm using and  learning":
+These are some of the main technologies I'm using and  learning:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
