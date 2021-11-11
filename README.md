@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Fernando Soares <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Frontend Developer Jr** working at [Vnda](https://www.vnda.com.br/).
+I'm a **Frontend Developer Jr**
 
 ## Skill Set :muscle:
 
